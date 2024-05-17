@@ -1,4 +1,4 @@
 1. Create  An Agent  https://dialogflow.cloud.google.com/#/getStarted,  you can use pre-built Agents.
 2. Follow the steps on ChatGPT to create the Token(Key)
 
-I think this Project should be in the same folder as the component for them to "intergrate" it just makes sense that way😩
+I think this Project should be on the same folder as the component for them to "intergrate" it just makes sense that way😩
